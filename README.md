@@ -17,7 +17,6 @@ function multiply(a,b){
 }
 
 
-function is most important
 
 function sum(a,b){
   return a+b
