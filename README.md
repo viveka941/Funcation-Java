@@ -10,6 +10,12 @@ function greet(name) {
 
 // Function call
 greet('Alice'); // Output: Hello, Alice!
+
+
+function multiply(a,b){
+  return a*b
+}
+```
 ```
 
 function is most important
