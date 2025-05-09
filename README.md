@@ -16,3 +16,10 @@ function multiply(a,b){
   return a*b
 }
 ```
+```
+
+function is most important
+```Javascript
+function sum(a,b){
+  return a+b
+}
