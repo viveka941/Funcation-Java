@@ -10,10 +10,13 @@ function greet(name) {
 
 // Function call
 greet('Alice'); // Output: Hello, Alice!
-```
+
 
 function is most important
-```Javascript
+
 function sum(a,b){
   return a+b
 }
+
+
+```
